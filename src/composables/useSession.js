@@ -6,7 +6,7 @@
 
 import { ref, computed } from 'vue'
 
-const SALON_PASSCODE = '1505'                          // ← change this
+const SALON_PASSCODE = '1234'                          // ← change this
 const SESSION_KEY    = 'scin_session'
 const SESSION_TTL_MS = 7 * 24 * 60 * 60 * 1000       // 7 days in ms
 
